@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">recycler</string>
+    <string name="molecule_name">Arginine</string>
+    <string name="molecule_3Letter">Arg</string>
+    <string name="molecule_1Letter">R</string>
+    <string name="description">Rdessf</string>
+    <string name="molecule_name_description">Description of Arginine</string>
+    <string name="molecule_3Letter_description">Description of Arg</string>
+    <string name="molecule_1Letter_description">Description of R</string>
+    <string name="description_description">Description of Rdessf</string>
+
+    <string-array name="amino_acids_full_txt">
+        <item>Pancit Cantoon</item>
+        <item>Chicken</item>
+        <item>Ice Cream</item>
+        <item>Coca Cola</item>
+        <item>Magic Sarap</item>
+    </string-array>
+
+    <string-array name="amino_acids_three_letter_txt">
+        <item>NICE</item>
+        <item>NOO</item>
+        <item>HYG</item>
+        <item>BHS</item>
+        <item>NAS</item>
+    </string-array>
+
+    <string-array name="amino_acids_one_letter_txt">
+        <item>L</item>
+        <item>O</item>
+        <item>G</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>NICE</item>
+        <item>NOO</item>
+        <item>HYG</item>
+        <item>BHS</item>
+        <item>NAS</item>
+    </string-array>
+</resources>
